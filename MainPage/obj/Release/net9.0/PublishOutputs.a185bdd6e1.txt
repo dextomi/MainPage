@@ -1,0 +1,7 @@
+C:\Users\Damu\RiderProjects\MainPage\MainPage\bin\Release\net9.0\publish\MainPage.exe
+C:\Users\Damu\RiderProjects\MainPage\MainPage\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Damu\RiderProjects\MainPage\MainPage\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Damu\RiderProjects\MainPage\MainPage\bin\Release\net9.0\publish\MainPage.dll
+C:\Users\Damu\RiderProjects\MainPage\MainPage\bin\Release\net9.0\publish\MainPage.deps.json
+C:\Users\Damu\RiderProjects\MainPage\MainPage\bin\Release\net9.0\publish\MainPage.runtimeconfig.json
+C:\Users\Damu\RiderProjects\MainPage\MainPage\bin\Release\net9.0\publish\MainPage.pdb
